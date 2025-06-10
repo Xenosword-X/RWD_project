@@ -20,9 +20,6 @@
 - VS Code 開發工具
 - GitHub Pages 部署
 
-## 🖼️ 頁面預覽
-[!桌面版 頁面預覽]([https://github.com/Xenosword-X/RWD_project/blob/main/img/desk_preview.jpg?raw=true](https://xenosword-x.github.io/RWD_project/login.html)
-
 ## 📚 學習心得
 
 這個作品是我練習純手刻切版的成果，透過不依賴框架實作響應式設計，更加理解了 CSS 的排版機制與裝置適應技巧。也提升了我對 HTML 結構語意與維護性的重視。
