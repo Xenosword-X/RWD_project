@@ -21,12 +21,7 @@
 - GitHub Pages 部署
 
 ## 🖼️ 頁面預覽
-（可貼圖或使用 markdown 語法插入圖片）
-> 你可以加一張桌面版／手機版的網頁截圖，提升吸引力。
-> 桌面版
-> https://github.com/Xenosword-X/RWD_project/blob/main/img/desk_preview.jpg
-> 手機版
-> 
+[![Login 頁面預覽](./images/screenshot.jpg)](https://xenosword-x.github.io/RWD_project/login.html)
 
 ## 📚 學習心得
 
