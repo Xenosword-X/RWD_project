@@ -3,7 +3,7 @@
 這是一個使用 HTML 與 CSS（不依賴框架）實作的 RWD 響應式切版練習作品，主題為登入頁面，支援手機、平板與桌面等不同裝置的排版呈現。
 
 ## 🔗 Demo 線上預覽
-👉 [點我查看](https://xenosword-x.github.io/Myproject/RWD/login.html)
+👉 [點我查看](https://xenosword-x.github.io/RWD_project/login.html)
 
 ## 📌 專案特色
 
