@@ -21,7 +21,7 @@
 - GitHub Pages 部署
 
 ## 🖼️ 頁面預覽
-[!桌面版 頁面預覽](./images/screenshot.jpg)](https://xenosword-x.github.io/RWD_project/login.html)
+[!桌面版 頁面預覽]([https://github.com/Xenosword-X/RWD_project/blob/main/img/desk_preview.jpg?raw=true](https://xenosword-x.github.io/RWD_project/login.html)
 
 ## 📚 學習心得
 
